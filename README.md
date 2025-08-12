@@ -14,7 +14,7 @@ Visualizations – Accuracy curve, confusion matrix, ROC curve, sample predictio
 
 How to Run
 Open the Colab notebook or clone this repo:
-git clone https://github.com/username/repository-name.git
+git clone (https://github.com/anweshita-ai/Image-Classification-Project/tree/main)
 
 Install dependencies:
 pip install -r requirements.txt
