@@ -1,9 +1,9 @@
 # Image-Classification-Project
-Project Overview
+# **Project Overview**
 This is my Image Classification project where I trained a deep learning model to recognize and classify images.
 I used Google Colab for coding and TensorFlow/Keras for building the model.
 
- Project Contents
+# ** Project Contents**
 Image_Classification_Notebook.ipynb – Complete Colab notebook
 model_weights.h5 – Trained model weights
 preprocessing.py – Data loading & preprocessing
@@ -14,14 +14,9 @@ Visualizations – Accuracy curve, confusion matrix, ROC curve, sample predictio
 
 How to Run
 Open the Colab notebook or clone this repo:
-
-bash
-Copy code
 git clone https://github.com/username/repository-name.git
-Install dependencies:
 
-bash
-Copy code
+Install dependencies:
 pip install -r requirements.txt
 
 Run the scripts in order:
@@ -37,5 +32,5 @@ CNN with Conv2D, MaxPooling2D, Dense, Dropout
 Optimizer: Adam
 Loss: Categorical Crossentropy
 
- Author
+# ** Author**
 Anweshita Anannya – Project submission for coursework
