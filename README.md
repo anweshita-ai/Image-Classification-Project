@@ -3,7 +3,7 @@
 This is my Image Classification project where I trained a deep learning model to recognize and classify images.
 I used Google Colab for coding and TensorFlow/Keras for building the model.
 
-# ** Project Contents**
+# **Project Contents**
 Image_Classification_Notebook.ipynb – Complete Colab notebook
 model_weights.h5 – Trained model weights
 preprocessing.py – Data loading & preprocessing
@@ -32,5 +32,5 @@ CNN with Conv2D, MaxPooling2D, Dense, Dropout
 Optimizer: Adam
 Loss: Categorical Crossentropy
 
-# ** Author**
+# **Author**
 Anweshita Anannya – Project submission for coursework
